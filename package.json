@@ -1,0 +1,22 @@
+{
+  "name": "siteminder-jwt",
+  "version": "1.0.0",
+  "description": "Create JWT Based Authentication With CA SiteMinder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JWT",
+    "SITEMINDER",
+    "SSO",
+    "AUTH"
+  ],
+  "author": "Prabir Ghosh",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.0",
+    "saml-encoder-decoder-js": "^1.0.1",
+    "saml20": "^0.1.14"
+  }
+}
